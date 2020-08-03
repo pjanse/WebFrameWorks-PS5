@@ -1,0 +1,15 @@
+#txtBlog{
+    height: 160px;
+    width: 200px;
+    display: inline;
+    position: relative;
+}
+
+#addBlog{
+    display:inline;
+}
+
+#createBlog{
+    height: 160px;
+    width:  200px;
+}

@@ -1,0 +1,6 @@
+.navbar li{
+    display: inline;
+    padding: 10px;
+    text-align: left;
+    background-color: aliceblue;
+}
